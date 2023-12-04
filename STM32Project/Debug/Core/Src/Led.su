@@ -1,0 +1,5 @@
+Led.c:11:6:LED_oneshot	8	static
+Led.c:15:6:LED1	8	static
+Led.c:19:6:LED2	8	static
+Led.c:23:6:LED3	8	static
+Led.c:27:6:LED4	8	static
